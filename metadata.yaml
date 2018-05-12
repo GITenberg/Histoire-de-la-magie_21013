@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5437
     wikipedia: http://fr.wikipedia.org/wiki/Eliphas_L%C3%A9vi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21013#Histoire-de-la-magie
 gutenberg_bookshelf: FR Occultisme
 gutenberg_issued: '2007-04-08'
 gutenberg_type: Text
